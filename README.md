@@ -12,4 +12,4 @@ Este proyecto es un ejercicio básico para empezar a aprender sobre el mundo del
 
 Este es un ejemplo del código en la clase 6, es la estructura de HTML
 
-![Vista previa](https://imgur.com/a/4l1WR4N)
+![Vista previa]([https://imgur.com/a/4l1WR4N](https://i.postimg.cc/xTnTvb5y/img.png))
