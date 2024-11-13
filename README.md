@@ -1,6 +1,7 @@
 # Curriculum Vitae
 
-Este proyecto es un ejercicio básico para empezar a aprender sobre el mundo del desarrollo web
+Este proyecto es un ejercicio básico para empezar a aprender sobre el mundo del desarrollo web, correspondiente al proyecto No.6 del master "Course FrontEnd" de DEV.F.
+Para ello se realizo un preliminar basico de mi CV con alguna información de mi experiencia y conocimientos.
 
 ## Objetivos de aprendizaje
 
@@ -10,6 +11,6 @@ Este proyecto es un ejercicio básico para empezar a aprender sobre el mundo del
 
 ## Codigo 
 
-Este es un ejemplo del código en la clase 6, es la estructura de HTML
+Este es un ejemplo del código en la clase 6, es la estructura semántica de HTML
 
-![Vista previa](https://i.postimg.cc/xTnTvb5y/img.png)
+![Vista previa](https://i.postimg.cc/9Q5p3HH2/img.png)
